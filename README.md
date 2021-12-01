@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on 5A ATTIVA
 - 🌱 I’m currently learning front end
 - 👯 I’m looking to collaborate on comunity projects
-- 🤔 I’m looking for help with front end
 - 📫 How to reach me: gustavo.ortiz.camargo@gmail.com
 - 😄 Pronouns: Ele/Dele
 
