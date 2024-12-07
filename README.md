@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning front end
 - 👯 I’m looking to collaborate on comunity projects
 - 📫 How to reach me: gustavo.ortiz.camargo@gmail.com
-- 😄 Pronouns: Ele/Dele
-
 
 <div>
 <a href="https://github.com/gustavoortizcamargo">
